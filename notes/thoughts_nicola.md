@@ -49,3 +49,5 @@ ich denke ich werde ein paar solche Experimente aufstellen - die sollen die Stud
 
 Bernd Malle, [05.03.20 21:02]
 ... da fallt sogar ein gutes praktisches "interactive ML" paper ... oder "graph enrichment via domain embeddings"... oder...
+
+
